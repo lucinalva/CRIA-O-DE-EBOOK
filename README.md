@@ -12,4 +12,5 @@ Me escreva um ebook com conteúdo para ser disseminado no WhatsApp e blog com o 
 Prompt Final para o Ajuste da Versão Completa
 Finalize o eBook com uma introdução, tópicos bem definidos e uma conclusão que motive o leitor a compartilhar o conteúdo no WhatsApp e acompanhar o blog. Mantenha um estilo de influenciador tech com autoridade.  
 
-Ebook finalizado: 
+Ebook finalizado: https://github.com/lucinalva/E-BOOK/blob/main/E-BOOK-Guia%20de%20Sobreviv%C3%AAncia%20para%20Profissionais%20de%20Projetos.pdf
+
